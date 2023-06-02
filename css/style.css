@@ -19,3 +19,7 @@ main {
 h1{
     font-family: Lucida Handwriting;
 }
+.button {
+    background-color: blueviolet;
+    color: pink;
+}
